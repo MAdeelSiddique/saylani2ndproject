@@ -258,3 +258,41 @@ ul{
   }
 
   /* Number Section End */
+
+
+  /* What We Do Section Start */
+  .we-do-overlay{
+    background-color: #1a1a1aeb;
+    padding: 79px 0;
+  }
+  .wedo-sec{
+    background-image: url(../img/what-we-do-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .card-1{
+    background-color: #131313 !important;
+    padding: 0 4px;
+    width: 15rem;
+    border-bottom: 3px solid #E1C564 !important;
+  }
+  .card1-body{
+    color: #fff !important;
+    text-align: center;
+  }
+
+  .card1-body h5{ 
+    font-family: "Cormorant Garamond", serif;
+    color: #E1C564;
+    font-size: 28px;
+    font-weight: 700;
+  }
+
+  .card1-body p{
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #595959;
+  }
+  /* What We Do Section End */
